@@ -2,16 +2,16 @@
 
 ## Introduction
 
-This repository contains the code and documentation for analyzing customer churn at PowerCo, a major gas and electricity utility. The analysis aims to explore whether churn is driven by customers' price sensitivity. The analysis involves loading and exploring client data, creating a new feature, and building a predictive model for churn using the random forest technique.
-Case:
-PowerCo - a major gas and electricity utility who is concerned about losing customers
-Hipotesis:
-Apakah churn didorong oleh customers' price sensitivity?
-What Do:
-Use python to analyze client data
-Use Python to build a new feature for your analysis
-Build a predictive model for churn using a random forest technique
-Write an executive summary with your findings
+This repository contains the code and documentation for analyzing customer churn at PowerCo, a major gas and electricity utility. The analysis aims to explore whether churn is driven by customers' price sensitivity. The analysis involves loading and exploring client data, creating a new feature, and building a predictive model for churn using the random forest technique.<br><br>
+Case:<br>
+PowerCo - a major gas and electricity utility who is concerned about losing customers<br>
+Hipotesis:<br>
+Apakah churn didorong oleh customers' price sensitivity?<br>
+What Do:<br>
+Use python to analyze client data<br>
+Use Python to build a new feature for your analysis<br>
+Build a predictive model for churn using a random forest technique<br>
+Write an executive summary with your findings<br>
 
 ## Setup
 
