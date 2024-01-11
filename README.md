@@ -8,10 +8,10 @@ PowerCo - a major gas and electricity utility who is concerned about losing cust
 Hipotesis:<br>
 Apakah churn didorong oleh customers' price sensitivity?<br>
 What Do:<br>
-Use python to analyze client data<br>
-Use Python to build a new feature for your analysis<br>
-Build a predictive model for churn using a random forest technique<br>
-Write an executive summary with your findings<br>
+-Use python to analyze client data<br>
+-Use Python to build a new feature for your analysis<br>
+-Build a predictive model for churn using a random forest technique<br>
+-Write an executive summary with your findings<br>
 
 ## Setup
 
